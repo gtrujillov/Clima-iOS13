@@ -1,5 +1,6 @@
-#Clima
+![Banner de LinkedIn Profesor Adjunto Pincelada Verde y Crema](https://user-images.githubusercontent.com/28809990/215296365-85bde1ae-aab7-44e8-acfb-cc1bf4f43bd0.png)
 
+#Clima
 
 #Teoría aplicada
 
